@@ -1,5 +1,17 @@
 <h3 align="center">Olá, sou Gabriel! 👋<br><br>Desenvolvedor especializado em soluções digitais, incluindo e-commerce, landing pages e sites institucionais. Experiência com WordPress/Elementor, HTML/CSS, JavaScript/TypeScript, React, Vite, Next e prototipação no Figma. Focado em marketing digital, criação de conteúdo e captação de leads.</h3>
 
+- 🔭 [Tectree / Projeto em Vite](https://tectree.com.br/)
+
+- 👯 **Projetos em Next**
+
+- 🤝 **Projetos no Google Colab**
+  
+- 🌱 **AWS**
+
+- 💬 **Next, Vite e React**
+
+- 📫 **gabriel.agos@live.com**
+
 ###
 
 <div align="left">
