@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Gabriel! 👋</h1>
+<h1>Olá, sou Gabriel! 👋</h1>
 <h3>Desenvolvedor Front-end especializado em soluções digitais e marketing estratégico.</h3>
 
 - 🔭 [Tectree / Projeto em Vite](https://tectree.com.br/)
