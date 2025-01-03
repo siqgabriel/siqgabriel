@@ -3,11 +3,9 @@
 
 - 🔭 [Tectree / Projeto em Vite](https://tectree.com.br/)
 
-- 👯 **Projetos em Next**
+- 👯 **[Projetos em Next](https://www.openret.com.br/)**
 
 - 🤝 **Projetos no Google Colab**
-  
-- 🌱 **AWS**
 
 - 💬 **Next, Vite e React**
 
