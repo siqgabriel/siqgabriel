@@ -43,11 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
 
-###
 
-<img align="right" height="200" src="https://tectree.com.br/favicon.ico"  />
-
-###
 <br/>
 <br/>
 <div align="left">
